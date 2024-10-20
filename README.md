@@ -44,8 +44,8 @@ Here are a few projects that reflect what I've learned and accomplished during m
 
 I’m always open to connecting with fellow developers, potential mentors, or internship recruiters!
 
-- 💼 www.linkedin.com/in/inbal-bolshinsky-719ab0202
-- 📧 inbalbolsh@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/inbal-bolshinsky-719ab0202
+- 📧 Email: inbalbolsh@gmail.com
 
 ---
 
