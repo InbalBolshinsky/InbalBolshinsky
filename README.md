@@ -45,8 +45,8 @@ Here are a few projects that reflect what I've learned and accomplished during m
 
 ## TAKI Game
 - **Description:** This was my first ever coding project! This is a card game project where I implemented the game TAKI. The game allows players to compete by matching cards based on number or color, with special cards altering gameplay. Key features include player input handling, game state management, and dynamic turn-based mechanics.
-Technologies Used: C
-Repo: [Link to GitHub repository]()
+- **Technologies Used:** C
+- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/TAKI-Game)
 ---
 
 ## 💼 How to Reach Me
