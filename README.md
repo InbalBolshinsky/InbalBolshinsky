@@ -28,7 +28,7 @@ Here’s a glimpse of the tools and technologies I work with:
 Here are a few projects that reflect what I've learned and accomplished during my studies:
 
 ### 📚 Bubbles
-- **Description:** This is an Object-Oriented Programming (OOP) course project where I developed a game called **Bubbles**. The game incorporates core OOP principles such as encapsulation, inheritance, and polymorphism. Players interact with objects like bubbles, with game mechanics that include object collision, user input, and score tracking.
+- **Description:** This is an Object-Oriented Programming (OOP) course project where I developed a game called **Bubbles**. The game incorporates core OOP principles such as encapsulation, inheritance, and polymorphism. Players interact with objects like a spaceship and bubble blocks, with game mechanics that include object collision, user input, and score tracking.
 - **Technologies Used:** C#, OOP
 - **Repo:** [Link to GitHub repository]
 
@@ -45,8 +45,7 @@ Here are a few projects that reflect what I've learned and accomplished during m
 I’m always open to connecting with fellow developers, potential mentors, or internship recruiters!
 
 - 💼 [LinkedIn](www.linkedin.com/in/inbal-bolshinsky-719ab0202)
-- 📧 [Email](mailto:inbalbolsh@gmail.com)
-- 🌐 [Portfolio Website](https://yourwebsite.com)
+- 📧 [Email](inbalbolsh@gmail.com)
 
 ---
 
