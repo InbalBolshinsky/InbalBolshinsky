@@ -17,7 +17,7 @@ Here’s a glimpse of the tools and technologies I work with:
 
 | **Languages**  | **Frameworks**  | **Databases**  | **Other Tools**  |
 |----------------|-----------------|----------------|------------------|
-| C++, C#, Java, Python, Javascript, SQL | [Frameworks: React, Flask] | MySQL | Git |
+| C++, C#, Java, Python, Javascript, SQL | [To be Mastered] | MySQL | Git |
 
 - **Knowledgeable in:** Algorithms, Data Structures, OOP, and Agile methodologies.
   
