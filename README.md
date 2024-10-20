@@ -36,7 +36,7 @@ Here are a few projects that reflect what I've learned and accomplished during m
 - **Description:** This project focuses on classifying breast cancer tumors as malignant or benign using machine learning techniques. The model was trained on a breast cancer dataset, applying various classification algorithms to predict the presence of cancer based on features such as size, shape, and texture.
 - **Technologies Used:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn
 - **Dataset:** (https://md.hit.ac.il/pluginfile.php/914794/mod_folder/content/0/cancer_test.csv?forcedownload=1)
-- **Repo:** [Link to GitHub repository]
+- **Repo:** [[Link to GitHub repository]](https://github.com/InbalBolshinsky/Assigment-2-ML)
 
 ---
 
