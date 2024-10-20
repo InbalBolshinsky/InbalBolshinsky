@@ -5,7 +5,7 @@ I'm a 3rd and final-year Computer Science student with a passion for exploring t
 ## 👨‍🎓 About Me
 
 - 🎓 **Education:** 3rd, BSc in Computer Science at HIT
-- 💡 **Interests:** Software development, Machine Learning, Data Science and Web
+- 💡 **Interests:** Software development, Machine Learning, Data Science and Web Development
 - 🌱 **Currently learning:** Deep Learning, C# in .NET, and Android Client-Side Development
 - 👯 **Looking for:** Internship opportunities and project collaborations
 
@@ -17,7 +17,7 @@ Here’s a glimpse of the tools and technologies I work with:
 
 | **Languages**  | **Frameworks**  | **Databases**  | **Other Tools**  |
 |----------------|-----------------|----------------|------------------|
-| C++, C#, Java, Python, Javascript, SQL | [Frameworks: React, Flask] | SQL | Git |
+| C++, C#, Java, Python, Javascript, SQL | [Frameworks: React, Flask] | MySQL | Git |
 
 - **Familiar with:** Algorithms, Data Structures, OOP, and Agile methodologies.
   
