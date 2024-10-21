@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Inbal!
 
-I'm a 3rd and final-year Computer Science student with a passion for exploring the world of Computer Science and Software. I love learning, experimenting with new tools, and creating projects that solve real-world problems.
+I'm a 3rd and final-year Computer Science student with a passion for exploring the world of Software. I love learning, experimenting with new tools, and creating projects that solve real-world problems.
 
 ## 👨‍🎓 About Me
 
-- 🎓 **Education:** 3rd, BSc in Computer Science at HIT
+- 🎓 **Education:** 3rd year student, BSc in Computer Science at HIT
 - 💡 **Interests:** Software development, Machine Learning, Data Science and Web Development
 - 🌱 **Currently learning:** Deep Learning, C# in .NET, and Android Client-Side Development
 - 👯 **Looking for:** Internship opportunities and project collaborations
@@ -30,7 +30,7 @@ Here are a few projects that reflect what I've learned and accomplished during m
 ### :video_game: Bubbles
 - **Description:** This is an Object-Oriented Programming (OOP) course project where I developed a game called **Bubbles**. The game incorporates core OOP principles such as encapsulation, inheritance, and polymorphism. Players interact with objects like a spaceship and bubble blocks, with game mechanics that include object collision, user input, and score tracking.
 - **Technologies Used:** C#, OOP
-- **Repo:** [Link to GitHub repository](https://github.com/shanielgamil/bubbles)
+- **Repo:** [Link to GitHub repository](https://github.com/shanielgamil/bubbles) //add the working link
 
 ### 📊 BreastCancerClassifier
 - **Description:** This project focuses on classifying breast cancer tumors as malignant or benign using machine learning techniques. The project was created as part of a Machine Learning course. The model was trained on a breast cancer dataset, applying various classification algorithms to predict the presence of cancer based on features such as size, shape, and texture.
@@ -46,7 +46,7 @@ Here are a few projects that reflect what I've learned and accomplished during m
 ### :black_joker: TAKI Game
 - **Description:** This was my first ever coding project! This is a card game project where I implemented the game TAKI. The game allows players to compete by matching cards based on number or color, with special cards altering gameplay. Key features include player input handling, game state management, and dynamic turn-based mechanics.
 - **Technologies Used:** C
-- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/TAKI-Game)
+- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/TAKI-Game) //remove the exe file and add the 3 code files
 ---
 
 ## 💼 How to Reach Me
