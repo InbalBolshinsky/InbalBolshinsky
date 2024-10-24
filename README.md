@@ -27,10 +27,10 @@ Here’s a glimpse of the tools and technologies I work with:
 
 Here are a few projects that reflect what I've learned and accomplished during my studies:
 
-### :video_game: Bubbles
-- **Description:** This is an Object-Oriented Programming (OOP) course project where I developed a game called **Bubbles**. The game incorporates core OOP principles such as encapsulation, inheritance, and polymorphism. Players interact with objects like a spaceship and bubble blocks, with game mechanics that include object collision, user input, and score tracking.
+### :video_game: FunkyBubbles
+- **Description:** This is an Object-Oriented Programming (OOP) course project where I developed a game called **FunkyBubbles**. The game incorporates core OOP principles such as encapsulation, inheritance, and polymorphism. Players interact with objects like a spaceship and bubble blocks, with game mechanics that include object collision, user input, and score tracking.
 - **Technologies Used:** C#, OOP
-- **Repo:** [Link to GitHub repository](https://github.com/shanielgamil/bubbles)
+- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/bubbles/blob/main/README.md)
 
 ### 📊 BreastCancerClassifier
 - **Description:** This project focuses on classifying breast cancer tumors as malignant or benign using machine learning techniques. The project was created as part of a Machine Learning course. The model was trained on a breast cancer dataset, applying various classification algorithms to predict the presence of cancer based on features such as size, shape, and texture.
