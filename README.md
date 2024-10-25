@@ -42,11 +42,6 @@ Here are a few projects that reflect what I've learned and accomplished during m
 - **Description:** LearnUp is an online learning platform designed for students and teachers. It allows users to enroll in courses, access educational materials, and participate in exercises with real-time feedback. The project was created as part of the "Software Engineering" course, with a focus on the architectural structure of the project - providing the requirements and architecture documentation for the LearnUp platform. The documents describe the functional and non-functional requirements, as well as the technical architecture and system components. These documents serve as the foundation for understanding the project’s goals and design.
 - **Technologies Used:** Varius UML Diagrams using Lucidchart
 - **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/LearnUp)
-
-### :black_joker: TAKI Game
-- **Description:** This was my first ever coding project! This is a card game project where I implemented the game TAKI. The game allows players to compete by matching cards based on number or color, with special cards altering gameplay. Key features include player input handling, game state management, and dynamic turn-based mechanics.
-- **Technologies Used:** C
-- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/TAKI-Game)
 ---
 
 ## 💼 How to Reach Me
