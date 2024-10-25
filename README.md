@@ -17,7 +17,7 @@ Here’s a glimpse of the tools and technologies I work with:
 
 | **Languages**  | **Frameworks**  | **Databases**  | **Other Tools**  |
 |----------------|-----------------|----------------|------------------|
-| C++, C#, Java, Python, Javascript, SQL | <ul><li>Python: pandas, matplotlib, numpy, scikit-learn, seaborn, beautifulsoup<ul><li>C#: .NET frameworks| MySQL | Git |
+| C++, C#, Java, Python, Javascript, SQL | <ul><li>Python: pandas, matplotlib, numpy, scikit-learn, seaborn, beautifulsoup</li><ul><li>C#: .NET frameworks</li>| MySQL | Git |
 
 - **Knowledgeable in:** Algorithms, Data Structures, OOP, and Agile methodologies.
   
