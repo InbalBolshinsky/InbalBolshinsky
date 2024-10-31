@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Inbal!
 
-I'm a 3rd and final-year Computer Science student with a passion for exploring the world of Software. I love learning, experimenting with new tools, and creating projects that solve real-world problems.
+I'm a 3rd and final-year BSc Computer Science student with a passion for exploring the world of Software. I love learning, experimenting with new tools, and creating projects that solve real-world problems.
 
 ## 👨‍🎓 About Me
 
