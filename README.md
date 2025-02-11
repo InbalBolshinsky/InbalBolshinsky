@@ -17,7 +17,7 @@ Here’s a glimpse of the tools and technologies I work with:
 
 | **Languages**  | **Frameworks**  | **Databases**  | **Other Tools**  |
 |----------------|-----------------|----------------|------------------|
-| C++, C#, Java, Python, Javascript, html, CSS, SQL | <ul><li>Python: pandas, matplotlib, numpy, scikit-learn, seaborn, beautifulsoup</li></ul> <ul><li>C#: .NET frameworks</li>| MySQL | Git, React |
+| C++, C#, Java, Python, Javascript, html, CSS, SQL | <ul><li>Python: pandas, matplotlib, numpy, tensorflow, seaborn </li></ul> <ul><li>C#: .NET frameworks</li>| MySQL | Git, React |
 
 - **Knowledgeable in:** Algorithms, Data Structures, OOP, Database systems, Computer networks, and Agile methodologies.
   
@@ -26,6 +26,11 @@ Here’s a glimpse of the tools and technologies I work with:
 ## 🌟 Projects I've Worked On
 
 Here are a few projects that reflect what I've learned and accomplished during my studies:
+
+### 🩺 LungCancer_DL_Project:
+- **Description:** This project classifies lung cancer images into Benign, Malignant, and Normal cases using CNNs and Transfer Learning (VGG16, ResNet). It applies data augmentation, class balancing, and hyperparameter tuning to improve model performance. The study compares a custom CNN model against pre-trained models to determine the most effective approach.
+- **Technologies Used:** TensorFlow, Keras, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Seaborn, KerasTuner.
+- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/LungCancer_DL_Project/main)
 
 ### :video_game: FunkyBubbles
 - **Description:** This is an Object-Oriented Programming (OOP) course project where I developed a game called **FunkyBubbles**. The game incorporates core OOP principles such as encapsulation, inheritance, and polymorphism. Players interact with objects like a spaceship and bubble blocks, with game mechanics that include object collision, user input, and score tracking.
