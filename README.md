@@ -19,7 +19,7 @@ Here’s a glimpse of the tools and technologies I work with:
 |----------------|-----------------|----------------|------------------|
 | C++, C#, Java, Python, Javascript, html, CSS, SQL | <ul><li>Python: pandas, matplotlib, numpy, tensorflow, seaborn </li></ul> <ul><li>C#: .NET frameworks</li>| MySQL | Git, React |
 
-- **Knowledgeable in:** Algorithms, Data Structures, OOP, Database systems, Computer networks, and Agile methodologies.
+- **Knowledgeable in:** Algorithms, Data Structures, OOP, Database systems, Computer networks, Machine Learning and Deep Learning, Data Science and Agile methodologies.
   
 ---
 
@@ -28,7 +28,7 @@ Here’s a glimpse of the tools and technologies I work with:
 Here are a few projects that reflect what I've learned and accomplished during my studies:
 
 ### 🩺 LungCancer_DL_Project:
-- **Description:** This project classifies lung cancer images into Benign, Malignant, and Normal cases using CNNs and Transfer Learning (VGG16, ResNet). It applies data augmentation, class balancing, and hyperparameter tuning to improve model performance. The study compares a custom CNN model against pre-trained models to determine the most effective approach.
+- **Description:** This project, completed as part of a Deep Learning course, classifies lung cancer images into Benign, Malignant, and Normal cases using CNNs and Transfer Learning (VGG16, ResNet). It applies data augmentation, class balancing, and hyperparameter tuning to improve model performance. The study compares a custom CNN model against pre-trained models to determine the most effective approach.
 - **Technologies Used:** TensorFlow, Keras, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Seaborn, KerasTuner.
 - **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/LungCancer_DL_Project/main)
 
