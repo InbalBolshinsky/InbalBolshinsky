@@ -6,8 +6,8 @@ I'm a 3rd and final-year BSc Computer Science student with a passion for explori
 
 - 🎓 **Education:** 3rd year student, BSc in Computer Science at HIT
 - 💡 **Interests:** Software development, Machine Learning, Data Science and Web Development
-- 🌱 **Currently learning:** JavaScript and React, Deep Learning, and C# in .NET
-- 👯 **Looking for:** Internship opportunities and project collaborations
+- 🌱 **Currently learning:** JavaScript and React, Deep Learning
+- 👯 **Looking for:** Part-time student position, Internship opportunities and project collaborations
 
 ---
 
@@ -17,7 +17,7 @@ Here’s a glimpse of the tools and technologies I work with:
 
 | **Languages**  | **Frameworks**  | **Databases**  | **Other Tools**  |
 |----------------|-----------------|----------------|------------------|
-| C++, C#, Java, Python, Javascript, html, CSS, SQL | <ul><li>Python: pandas, matplotlib, numpy, tensorflow, seaborn </li></ul> <ul><li>C#: .NET frameworks</li>| MySQL | Git, React |
+| C++, C#, Java, Python, Javascript, html, CSS, SQL | <ul><li>Python: pandas, matplotlib, numpy, tensorflow, seaborn </li></ul> <ul><li>C#: .NET frameworks</li>| MySQL, MongoDB | Git, React |
 
 - **Knowledgeable in:** Algorithms, Data Structures, OOP, Database systems, Computer networks, Machine Learning and Deep Learning, Data Science and Agile methodologies.
   
@@ -26,6 +26,13 @@ Here’s a glimpse of the tools and technologies I work with:
 ## 🌟 Projects I've Worked On
 
 Here are a few projects that reflect what I've learned and accomplished during my studies:
+
+### 🧮 MyMath:
+
+- **Description:** The MyMath project is a kids-friendly, web-based application designed to make learning math fun and engaging for elementary school students. It features a range of math exercises tailored to different grade levels (Easy, Medium, Hard) with interactive elements, animations, and a rewarding achievement system. The project includes a secure login and sign-in system with MongoDB-backed data persistence, enabling personalized experiences and progress tracking for young learners.
+- **Technologies Used:** React, Node.js, MongoDB, JavaScript, HTML, CSS.
+- **Features:** User authentication, personalized exercises, progress saving, score tracking, trophies for achievements, and a variety of math problems ranging from basic addition to advanced fractions and percentages.
+- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/MyMath/main)
 
 ### 🩺 LungCancer_DL_Project:
 - **Description:** This project, completed as part of a Deep Learning course, classifies lung cancer images into Benign, Malignant, and Normal cases using CNNs and Transfer Learning (VGG16, ResNet). It applies data augmentation, class balancing, and hyperparameter tuning to improve model performance. The study compares a custom CNN model against pre-trained models to determine the most effective approach.
