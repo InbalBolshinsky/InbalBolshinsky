@@ -32,18 +32,18 @@ Here are a few projects that reflect what I've learned and accomplished during m
 - **Description:** The MyMath project is a kids-friendly, web-based application designed to make learning math fun and engaging for elementary school students. It features a range of math exercises tailored to different grade levels (Easy, Medium, Hard) with interactive elements, animations, and a rewarding achievement system. The project includes a secure login and sign-in system with MongoDB-backed data persistence, enabling personalized experiences and progress tracking for young learners.
 - **Technologies Used:** React, Node.js, MongoDB, JavaScript, HTML, CSS.
 - **Features:** User authentication, personalized exercises, progress saving, score tracking, trophies for achievements, and a variety of math problems ranging from basic addition to advanced fractions and percentages.
-- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/MyMath/main)
+- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/MyMath)
 
 ### 🩺 LungCancer_DL_Project:
 - **Description:** This project, completed as part of a Deep Learning course, classifies lung cancer images into Benign, Malignant, and Normal cases using CNNs and Transfer Learning (VGG16, ResNet). It applies data augmentation, class balancing, and hyperparameter tuning to improve model performance. The study compares a custom CNN model against pre-trained models to determine the most effective approach.
 - **Technologies Used:** TensorFlow, Keras, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Seaborn, KerasTuner.
 - **Dataset:** [Link to dataset](https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-dataset/data)
-- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/LungCancer_DL_Project/main)
+- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/LungCancer_DL_Project)
 
 ### :video_game: FunkyBubbles
 - **Description:** This is an Object-Oriented Programming (OOP) course project where I developed a game called **FunkyBubbles**. The game incorporates core OOP principles such as encapsulation, inheritance, and polymorphism. Players interact with objects like a spaceship and bubble blocks, with game mechanics that include object collision, user input, and score tracking.
 - **Technologies Used:** C#, OOP
-- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/bubbles/tree/main)
+- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/bubbles)
 
 ### 📊 BreastCancerClassifier
 - **Description:** This project focuses on classifying breast cancer tumors as malignant or benign using machine learning techniques. The project was created as part of a Machine Learning course. The model was trained on a breast cancer dataset, applying various classification algorithms to predict the presence of cancer based on features such as size, shape, and texture.
