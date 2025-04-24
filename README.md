@@ -34,7 +34,7 @@ Here are a few projects that reflect what I've learned and accomplished during m
 - **Features:** User authentication, personalized exercises, progress saving, score tracking, trophies for achievements, and a variety of math problems ranging from basic addition to advanced fractions and percentages.
 - **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/MyMath)
 
-### 🧞 QueryGenie**
+### 🧞 QueryGenie
 - **Description:** QueryGenie is an AI-powered business insights assistant built during the **8th National Israeli Hackathon.** It translates natural-language job descriptions into SQL queries and generates interactive visualizations using Chart.js. The system supports MySQL databases, integrates with OpenAI, and features retry/fallback logic for empty results. The frontend is built with React and includes a Lottie-powered loading animation and a fully responsive layout.
 - **Technologies Used:** FastAPI, React, TypeScript, MySQL, SQLAlchemy, Chart.js, OpenAI
 - **Features:** AI-generated SQL from job prompts, fallback logic, Chart.js-based insights, MySQL schema introspection.
