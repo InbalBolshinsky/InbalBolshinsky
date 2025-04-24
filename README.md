@@ -34,6 +34,12 @@ Here are a few projects that reflect what I've learned and accomplished during m
 - **Features:** User authentication, personalized exercises, progress saving, score tracking, trophies for achievements, and a variety of math problems ranging from basic addition to advanced fractions and percentages.
 - **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/MyMath)
 
+### 🧞 QueryGenie
+- **Description:** QueryGenie is an AI-powered business insights assistant built during the 8th National Israeli Hackathon. It translates natural-language job descriptions into SQL queries and generates interactive visualizations using Chart.js. The system supports MySQL databases, integrates with Ollama or OpenAI, and features retry/fallback logic for empty results. The frontend is built with React and includes a Lottie-powered loading animation and a fully responsive layout.
+- **Technologies Used:** FastAPI, React, TypeScript, MySQL, SQLAlchemy, Chart.js, Ollama/OpenAI, Docker
+- **Features:** AI-generated SQL from job prompts, fallback logic, Chart.js-based insights, MySQL schema introspection, and full Docker support.
+- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/QueryGenie)
+
 ### 🩺 LungCancer_DL_Project:
 - **Description:** This project, completed as part of a Deep Learning course, classifies lung cancer images into Benign, Malignant, and Normal cases using CNNs and Transfer Learning (VGG16, ResNet). It applies data augmentation, class balancing, and hyperparameter tuning to improve model performance. The study compares a custom CNN model against pre-trained models to determine the most effective approach.
 - **Technologies Used:** TensorFlow, Keras, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Seaborn, KerasTuner.
@@ -44,12 +50,6 @@ Here are a few projects that reflect what I've learned and accomplished during m
 - **Description:** This is an Object-Oriented Programming (OOP) course project where I developed a game called **FunkyBubbles**. The game incorporates core OOP principles such as encapsulation, inheritance, and polymorphism. Players interact with objects like a spaceship and bubble blocks, with game mechanics that include object collision, user input, and score tracking.
 - **Technologies Used:** C#, OOP
 - **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/bubbles)
-
-### 🧞 QueryGenie
-- **Description:** QueryGenie is an AI-powered business insights assistant built during the 8th National Israeli Hackathon. It translates natural-language job descriptions into SQL queries and generates interactive visualizations using Chart.js. The system supports MySQL databases, integrates with Ollama or OpenAI, and features retry/fallback logic for empty results. The frontend is built with React and includes a Lottie-powered loading animation and a fully responsive layout.
-- **Technologies Used:** FastAPI, React, TypeScript, MySQL, SQLAlchemy, Chart.js, Ollama/OpenAI, Docker
-- **Features:** AI-generated SQL from job prompts, fallback logic, Chart.js-based insights, MySQL schema introspection, and full Docker support.
-- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/QueryGenie)
   
 ### :memo: LearnUp
 - **Description:** LearnUp is an online learning platform designed for students and teachers. It allows users to enroll in courses, access educational materials, and participate in exercises with real-time feedback. The project was created as part of the "Software Engineering" course, with a focus on the architectural structure of the project - providing the requirements and architecture documentation for the LearnUp platform. The documents describe the functional and non-functional requirements, as well as the technical architecture and system components. These documents serve as the foundation for understanding the project’s goals and design.
