@@ -45,11 +45,11 @@ Here are a few projects that reflect what I've learned and accomplished during m
 - **Technologies Used:** C#, OOP
 - **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/bubbles)
 
-### 📊 BreastCancerClassifier
-- **Description:** This project focuses on classifying breast cancer tumors as malignant or benign using machine learning techniques. The project was created as part of a Machine Learning course. The model was trained on a breast cancer dataset, applying various classification algorithms to predict the presence of cancer based on features such as size, shape, and texture.
-- **Technologies Used:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn
-- **Dataset:** [Link to datasets](https://drive.google.com/drive/folders/1xmdHvW-nqC8fD1rcwlVWpo61xBODbJ8y?usp=drive_link)
-- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/Assigment-2-ML)
+### 🧞 QueryGenie
+- **Description:** QueryGenie is an AI-powered business insights assistant built during the 8th National Israeli Hackathon. It translates natural-language job descriptions into SQL queries and generates interactive visualizations using Chart.js. The system supports MySQL databases, integrates with Ollama or OpenAI, and features retry/fallback logic for empty results. The frontend is built with React and includes a Lottie-powered loading animation and a fully responsive layout.
+- **Technologies Used:** FastAPI, React, TypeScript, MySQL, SQLAlchemy, Chart.js, Ollama/OpenAI, Docker
+- **Features:** AI-generated SQL from job prompts, fallback logic, Chart.js-based insights, MySQL schema introspection, and full Docker support.
+- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/QueryGenie)
   
 ### :memo: LearnUp
 - **Description:** LearnUp is an online learning platform designed for students and teachers. It allows users to enroll in courses, access educational materials, and participate in exercises with real-time feedback. The project was created as part of the "Software Engineering" course, with a focus on the architectural structure of the project - providing the requirements and architecture documentation for the LearnUp platform. The documents describe the functional and non-functional requirements, as well as the technical architecture and system components. These documents serve as the foundation for understanding the project’s goals and design.
