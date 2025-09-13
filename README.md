@@ -35,7 +35,7 @@ Here are a few projects that reflect what I've learned and accomplished during m
   - Allows users to flag remarks and choose tailored AI-driven responses.  
   - Real-time moderation and response generation for online discussions.  
 - **Impact:** Developed in collaboration with the **Gila Project**, with plans for future deployment to support community safety online.
-- **Repo:** [Link to GitHub repository](https://github.com/dykeathon/Transparency)  
+- **Repo:** [Link to GitHub repository](https://github.com/dykeathon/Transparency)<br><br>
 
 ### 🖼️ Pixel Interpolation Perception Quality Prediction (PQPI)  
 - **Description:** A research collaboration with Samsung (Summer 2025) aimed at predicting human perception of pixel interpolation quality. The project designed a multi-dataset deep learning pipeline to model subjective human ratings of visual quality.  
@@ -45,7 +45,7 @@ Here are a few projects that reflect what I've learned and accomplished during m
   - Applied model ensembling and transfer learning to improve prediction accuracy.  
   - Designed evaluation metrics based on PSNR, MOS, and perceptual thresholds.  
 - **Impact:** Accelerated development cycles for new interpolation methods and laid groundwork for potential integration into Samsung’s imaging workflows.
-- **Repo:** [Link to GitHub repository](https://github.com/orgs/HITProjects/teams/pixelquality)  
+- **Repo:** [Link to GitHub repository](https://github.com/orgs/HITProjects/teams/pixelquality)<br><br>  
 
 ### 🤖 QuickAssist – LLM-Based Customer Service Assistant  
 - **Description:** A Natural Language Processing (NLP) course project, later extended into independent research. The assistant supports customer service teams by generating intelligent responses to client queries, comparing intent-first vs. direct-response paradigms.  
@@ -55,19 +55,19 @@ Here are a few projects that reflect what I've learned and accomplished during m
   - Evaluated results with **automatic metrics** (BERTScore, ROUGE, BLEU) and **human assessments**.  
   - Designed and tested frameworks for intent classification vs. direct-response generation.  
 - **Impact:** Currently being developed into a research paper titled *“Do Large Language Models Need Intent?”* for submission to an NLP/HCI venue.
-- **Repo:** [Link to GitHub repository](https://github.com/shaniKupiec/QuickAssist)  
+- **Repo:** [Link to GitHub repository](https://github.com/shaniKupiec/QuickAssist)<br><br>  
 
 ### 🧞 QueryGenie
 - **Description:** QueryGenie is an AI-powered business insights assistant built during the **8th National Israeli Hackathon.** It translates natural-language job descriptions into SQL queries and generates interactive visualizations using Chart.js. The system supports MySQL databases, integrates with OpenAI, and features retry/fallback logic for empty results. The frontend is built with React and includes a Lottie-powered loading animation and a fully responsive layout.
 - **Technologies Used:** FastAPI, React, TypeScript, MySQL, SQLAlchemy, Chart.js, OpenAI
 - **Features:** AI-generated SQL from job prompts, fallback logic, Chart.js-based insights, MySQL schema introspection.
-- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/QueryGenie)  
+- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/QueryGenie)<br><br>  
 
 ### 🧮 MyMath:
 - **Description:** The MyMath project is a kids-friendly, web-based application designed to make learning math fun and engaging for elementary school students. It features a range of math exercises tailored to different grade levels (Easy, Medium, Hard) with interactive elements, animations, and a rewarding achievement system. The project includes a secure login and sign-in system with MongoDB-backed data persistence, enabling personalized experiences and progress tracking for young learners.
 - **Technologies Used:** React, Node.js, MongoDB, JavaScript, HTML, CSS.
 - **Features:** User authentication, personalized exercises, progress saving, score tracking, trophies for achievements, and a variety of math problems ranging from basic addition to advanced fractions and percentages.
-- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/MyMath)  
+- **Repo:** [Link to GitHub repository](https://github.com/InbalBolshinsky/MyMath)<br><br>  
 
 ### 🩺 LungCancer_DL_Project:
 - **Description:** This project, completed as part of a Deep Learning course, classifies lung cancer images into Benign, Malignant, and Normal cases using CNNs and Transfer Learning (VGG16, ResNet). It applies data augmentation, class balancing, and hyperparameter tuning to improve model performance. The study compares a custom CNN model against pre-trained models to determine the most effective approach.
