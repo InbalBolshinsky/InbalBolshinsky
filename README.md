@@ -27,19 +27,35 @@ Here’s a glimpse of the tools and technologies I work with:
 
 Here are a few projects that reflect what I've learned and accomplished during my studies:
 
-### 🌈🛡️ TransDefender (Dykathon 2025 – 1st Place)  
-- **Description:** Chrome extension supporting respectful online dialogue by detecting and addressing harmful language.  
-- **Highlights:** Detects transphobic remarks, generates AI-driven responses, integrates Azure GPT-4o-mini and Hebrew toxicity detection models.  
-- **Backend:** FastAPI, in collaboration with the Gila Project.  
+### 🌈🛡️ TransDefender (Dykathon 2025 – 1st Place)   
+- **Description:** A Chrome extension built during the Dykathon 2025 hackathon to foster respectful online dialogue. It detects and flags harmful or transphobic remarks in comment sections and offers users AI-generated response suggestions tailored by tone and length.  
+- **Technologies Used:** Azure GPT-4o-mini, Hebrew toxicity detection models (toxic-bert, heBERT), FastAPI backend.  
+- **Features:**  
+  - Detects harmful or discriminatory language in Hebrew.  
+  - Allows users to flag remarks and choose tailored AI-driven responses.  
+  - Real-time moderation and response generation for online discussions.  
+- **Impact:** Developed in collaboration with the **Gila Project**, with plans for future deployment to support community safety online.
+- **Repo:** [Link to GitHub repository](https://github.com/dykeathon/Transparency)
 
 ### 🖼️ Pixel Interpolation Perception Quality Prediction (PQPI)  
-- **Description:** Samsung collaboration (Summer 2025) on predicting human perception of pixel interpolation quality.  
-- **Highlights:** Designed a multi-dataset deep learning pipeline, applied ensembling and fine-tuning, accelerated development cycles for new methods.  
+- **Description:** A research collaboration with Samsung (Summer 2025) aimed at predicting human perception of pixel interpolation quality. The project designed a multi-dataset deep learning pipeline to model subjective human ratings of visual quality.  
+- **Technologies Used:** PyTorch, NumPy, Pandas, Matplotlib, Seaborn.  
+- **Features:**  
+  - Combined and fine-tuned multiple datasets (e.g., TID2013, Jianjin008, KonJND-1k).  
+  - Applied model ensembling and transfer learning to improve prediction accuracy.  
+  - Designed evaluation metrics based on PSNR, MOS, and perceptual thresholds.  
+- **Impact:** Accelerated development cycles for new interpolation methods and laid groundwork for potential integration into Samsung’s imaging workflows.
+- **Repo:** [Link to GitHub repository](https://github.com/orgs/HITProjects/teams/pixelquality)
 
 ### 🤖 QuickAssist – LLM-Based Customer Service Assistant  
-- **Description:** NLP course project + independent research extension.  
-- **Highlights:** Compared intent-first vs. direct response paradigms using GPT-4, T5, and BERT on benchmark datasets.  
-- **Evaluation:** BERTScore, ROUGE, BLEU, and human assessments. Currently being developed into a research paper: *“Do Large Language Models Need Intent?”*  
+- **Description:** A Natural Language Processing (NLP) course project, later extended into independent research. The assistant supports customer service teams by generating intelligent responses to client queries, comparing intent-first vs. direct-response paradigms.  
+- **Technologies Used:** GPT-4, T5, BERT, PyTorch, Hugging Face Transformers, FastAPI.  
+- **Features:**  
+  - Benchmarked GPT-4, T5, and BERT on **Bitext** and **BiToD** datasets.  
+  - Evaluated results with **automatic metrics** (BERTScore, ROUGE, BLEU) and **human assessments**.  
+  - Designed and tested frameworks for intent classification vs. direct-response generation.  
+- **Impact:** Currently being developed into a research paper titled *“Do Large Language Models Need Intent?”* for submission to an NLP/HCI venue.
+- **Repo:** [Link to GitHub repository](https://github.com/shaniKupiec/QuickAssist)
 
 ### 🧞 QueryGenie
 - **Description:** QueryGenie is an AI-powered business insights assistant built during the **8th National Israeli Hackathon.** It translates natural-language job descriptions into SQL queries and generates interactive visualizations using Chart.js. The system supports MySQL databases, integrates with OpenAI, and features retry/fallback logic for empty results. The frontend is built with React and includes a Lottie-powered loading animation and a fully responsive layout.
