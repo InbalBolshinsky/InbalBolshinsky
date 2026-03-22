@@ -5,8 +5,8 @@ I'm a 3rd and final-year BSc Computer Science student with a passion for explori
 ## 👨‍🎓 About Me
 
 - 🎓 **Education:** 3rd year student, BSc in Computer Science at HIT
-- 💡 **Interests:** Software development, Machine Learning, Data Science and Web Development
-- 🌱 **Currently learning:** JavaScript and React, Deep Learning
+- 💡 **Interests:** Software development, AI, Data Science, Data Engeneering and Web Development
+- 🌱 **Currently learning:** Reinforsment Learning, Data Engeneering
 - 👯 **Looking for:** Part-time student position, Internship opportunities and project collaborations
 
 ---
@@ -17,9 +17,9 @@ Here’s a glimpse of the tools and technologies I work with:
 
 | **Languages**  | **Frameworks**  | **Databases**  | **Other Tools**  |
 |----------------|-----------------|----------------|------------------|
-| C++, C#, Java, Python, Javascript, html, CSS, SQL | <ul><li>Python: pandas, matplotlib, numpy, tensorflow, seaborn </li></ul> <ul><li>C#: .NET frameworks</li>| MySQL, MongoDB | Git, React |
+| C++, C#, Python, Javascript, html, CSS, SQL | <ul><li>Python: pandas, matplotlib, numpy, tensorflow, seaborn </li></ul> <ul><li>C#: .NET frameworks</li>| MySQL, MongoDB, Postgres | Git, React |
 
-- **Knowledgeable in:** Algorithms, Data Structures, OOP, Database systems, Computer networks, Machine Learning and Deep Learning, Data Science and Agile methodologies.
+- **Knowledgeable in:** Algorithms, Data Structures, OOP, Database systems, Computer networks, ML and DL, Data Science.
   
 ---
 
