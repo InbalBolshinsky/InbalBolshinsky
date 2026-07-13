@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Inbal!
 
-I'm a 3rd and final-year BSc Computer Science student with a passion for exploring the world of Software. I love learning, experimenting with new tools, and creating projects that solve real-world problems.
+I'm a newly graduate from BSc Computer Science student with a passion for exploring the world of Software. I love learning, experimenting with new tools, and creating projects that solve real-world problems.
 
 ## 👨‍🎓 About Me
 
-- 🎓 **Education:** 3rd year student, BSc in Computer Science at HIT
-- 💡 **Interests:** Software development, AI, Data Science, Data Engineering and Web Development
-- 🌱 **Currently learning:** Reinforsment Learning, Data Engineering
+- 🎓 **Education:** Newly Graduate - BSc in Computer Science at HIT
+- 💡 **Interests:** Software development, AI, Data Science, and Data Engineering
 - 👯 **Looking for:** Part-time student position, Internship opportunities and project collaborations
 
 ---
