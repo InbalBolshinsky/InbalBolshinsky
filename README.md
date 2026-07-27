@@ -16,7 +16,7 @@ I'm a Computer Science graduate (B.Sc., HIT) passionate about **Data Engineering
 
 ## 🔬 Currently Pursuing
 
-- 🤖 **Reinforcement Learning & NLP Research:** Exploring RL paradigms and studying intent-driven AI agents, extending the core research question: *"Do Large Language Models Need Intent?"*
+- 🤖 **Reinforcement Learning & NLP Research:** Exploring RL paradigms and studying intent-driven AI agents, extending the core research question: *"Can agents lie to humans?"*
 - 📊 **Anti-Bullying Youth Survey Analysis:** Conducting an end-to-end Data Science & EDA project for a youth anti-bullying organization, transforming raw survey data into actionable insights and trend detection to support online safety.
 
 ---
